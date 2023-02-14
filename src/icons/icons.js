@@ -7,7 +7,8 @@ import lightRainShower from '../images/partly-cloudy-day-drizzle.svg';
 import overCast from '../images/overcast.svg';
 import mist from '../images/drizzle.svg';
 import patchyRainPossible from '../images/partly-cloudy-day-rain.svg';
-
+import patchyLightWithThunder from '../images/thunderstorms-day.svg';
+import moderateOrHeaveyRainShower from '../images/partly-cloudy-day-rain.svg';
 const icons = {
   'Partly cloudy': partlyCloudy,
   Sunny: sunny,
@@ -18,6 +19,8 @@ const icons = {
   Overcast: overCast,
   Mist: mist,
   'Patchy rain possible': patchyRainPossible,
+  'Patchy light with thunder': patchyLightWithThunder,
+  'Moderate or heavey rain shower': moderateOrHeaveyRainShower,
 };
 
 export default icons;
